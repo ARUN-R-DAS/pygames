@@ -1,1 +1,6 @@
-
+Simple game of tic tac toe
+Added 3 by 3 grid
+Detects the mouse position (the box) when left clicked with a cooldown
+TO ADD: 
+draw x inside the box when clicked
+victory
